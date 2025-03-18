@@ -1,6 +1,6 @@
 # Hello, I am Saleh Yassin
 <a href="https://www.linkedin.com/in/saleh-y-946126a7/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>
 </a>
 
 ## Brief Intro. & Objective
