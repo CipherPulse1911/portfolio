@@ -8,5 +8,7 @@ My knowledge and values support organizational security goals by proactively ide
 | Value 1  | Value 2  | Value 3  |
 | Value A  | Value B  | Value C  |
 
-[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/saleh-y-946126a7/)
+<a href="https://www.linkedin.com/in/saleh-y-946126a7/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>
+</a>
 
