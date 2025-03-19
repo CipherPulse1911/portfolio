@@ -10,3 +10,9 @@ I am a result driven and self taught individual with a diverse educational backg
 My knowledge and values support organizational security goals by proactively identifying risks, enhancing security protocols, and ensuring compliance with industry standards. This contributes to safeguarding assets, maintaining trust, and mitigating potential threats
 
 ## Skills
+
+| Skill                                                            | Associated Project         |
+| ---------------------------------------------------------------- | --------------------------
+|                                                                  |
+|                                                                  |
+|                                                                  |
