@@ -13,6 +13,6 @@ My knowledge and values support organizational security goals by proactively ide
 
 | Skill                                                            | Associated Project         |
 | ---------------------------------------------------------------- | --------------------------
-| Conducted a Security Audit                                       | <a href="https://docs.google.com/document/d/1TVxVzHvsXxV0VEyOrABjQDLJnW7hjffOqFtLSbUcwSQ/edit?tab=t.0#heading=h.evidx83t54sc">CLICK HERE                
+| Conducted a Security Audit                                       | <a href="https://docs.google.com/document/d/1TVxVzHvsXxV0VEyOrABjQDLJnW7hjffOqFtLSbUcwSQ/edit?tab=t.0#heading=h.evidx83t54sc">Security Audit
 |                                                                  |
 |                                                                  |
