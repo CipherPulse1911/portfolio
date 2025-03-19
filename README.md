@@ -13,6 +13,6 @@ My knowledge and values support organizational security goals by proactively ide
 
 | Skill                                                            | Associated Project         |
 | ---------------------------------------------------------------- | --------------------------
-|                                                                  |
+| SIEM Implementation & Log Analysis                               |                                                           
 |                                                                  |
 |                                                                  |
